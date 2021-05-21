@@ -8,7 +8,7 @@ pipeline
         {
             steps
             {
-                echo "HELLO!"
+                echo "HELLO THERE!"
             }
         }
 
